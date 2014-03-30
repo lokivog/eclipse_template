@@ -1,3 +1,4 @@
-*/build
-*/bin
-*/dist
+build/
+bin/
+dist/
+output/
